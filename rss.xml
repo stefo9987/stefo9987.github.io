@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[My Static Org Blog]]></title>
+<description><![CDATA[My Static Org Blog]]></description>
+<link>https://stefo9987.github.io</link>
+<lastBuildDate>ïåò, 12 ìàð 2021 22:25:23 +0100</lastBuildDate>
+<item>
+  <title><![CDATA[First Post]]></title>
+  <description><![CDATA[
+<div class="taglist"><a href="https://stefo9987.github.io/tags.html">Tags</a>: <a href="https://stefo9987.github.io/tag-test-tag.html">test-tag</a> </div>]]></description>
+  <category><![CDATA[test-tag]]></category>
+  <link>https://stefo9987.github.io/first-post.html</link>
+  <pubDate>ïåò, 12 ìàð 2021 22:24:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
